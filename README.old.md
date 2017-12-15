@@ -1,2 +1,0 @@
-# clickygame
-React game
