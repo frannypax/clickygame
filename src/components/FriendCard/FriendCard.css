@@ -1,20 +1,27 @@
 .card {
   background: #fff;
-  border-radius: 2px;
+  /*border-style: ridge;
+  border-color: #00000;
+  border-width: 5px;
+  border-radius: 20px;*/
   height: 200px;
   margin: 1rem;
   position: relative;
   width: 250px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
-  border-style: solid black
+  
 }
 
 .card > .img-container {
   height: 100%;
+  /*border-style: ridge;
+  border-color: #00000;
+  border-width: 5px;
+  border-radius: 20px;*/
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background: #bfff80;
 }
 .card > .img-container > img {
   width: 60%
