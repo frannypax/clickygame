@@ -1,5 +1,5 @@
 import React from "react";
-import "./FriendCard.css";
+import "./GameCard.css";
 
 const FriendCard = props => (
   <div className="card">
