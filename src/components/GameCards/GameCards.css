@@ -1,0 +1,19 @@
+.cardImages {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cardImages > * {
+  width: 20%;
+  margin-right: 2.5%;
+  margin-left: 2.5%;
+}
+
+.cardImage > img {
+  width: 150px;
+  height: 100px;
+  background-color: lightgreen
+}
